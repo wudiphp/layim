@@ -11,7 +11,7 @@
 namespace app\admin\controller;
 
 use app\admin\model\Chatuser;
-
+//修复错误
 class Laymsg extends Base
 {
     //laychat用户列表
